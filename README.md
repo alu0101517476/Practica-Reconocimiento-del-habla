@@ -12,7 +12,7 @@ El objetivo de la práctica es la implementación de la librería Whisper en Uni
 
 ## Instalación del paquete
 
-Para integrar Whisper en el proyecto, se utilizó la implementación para Unity desarrollada por Macoron, descargando el repositorio como un zip y después añadiendolo mediante el Unity Hub y el botón `Add` la carpeta obtenida después de descomprimir el .zip del repositorio. El enlace del repositorio es el siguiente: https://github.com/Macoron/whisper.unity/tree/master
+Para integrar Whisper en el proyecto, se utilizó la implementación para Unity desarrollada por el usuario `Macoron`, descargando el repositorio como un zip y después añadiendolo mediante el Unity Hub y el botón `Add` la carpeta obtenida después de descomprimir el .zip del repositorio. El enlace del repositorio es el siguiente: https://github.com/Macoron/whisper.unity/tree/master
 
 ## Configuración de Escenas y Modelos
 
