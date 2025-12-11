@@ -189,6 +189,6 @@ Para conectar el código con los elementos visuales, se realizó una reestructur
 
 Al ejecutar la aplicación, el usuario puede presionar "Record" y decir frases como "Quiero que el cubo sea rojo". El sistema transcribe el audio a texto, detecta la palabra clave y actualiza el material del cubo instantáneamente.
 
-A continuación se ve como el funcionamiento de la aplicación en un dispositivo Android y como el cubo logra cambiar de color, no se puede apreciar que se dice la palabra `rojo` al ser un GIF, pero se puede ver la palabra `rojo`cuando el sistema lo detecta en el botón que por defecto tiene el texto `Record` y que se encuentra abajo a la derecha de la pantalla. 
+A continuación se ve como el funcionamiento de la aplicación en un dispositivo Android y como el cubo logra cambiar de color, no se puede apreciar que se dice la palabra `rojo` o `red` al ser un GIF, pero se puede ver la palabra `Red red red`cuando el sistema lo detecta en el botón que por defecto tiene el texto `Record` y que se encuentra abajo a la derecha de la pantalla. 
 
-![Video]()
+![Video](Whisper_gif2.gif)
